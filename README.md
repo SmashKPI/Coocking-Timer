@@ -12,3 +12,4 @@ The LED signalise the time delay chosing process.
 * 2x 1k, 1x 500, and 4.7k Ohm Resistors
 * Pushbutton
 * LED
+* Switch
