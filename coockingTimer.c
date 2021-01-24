@@ -3,7 +3,7 @@
 File name:		Cooking_timer.c
 Author:			DTsebrii
 Date:			04/OCT/2020
-Modified:		DTsebrii 22/HAN/2021 
+Modified:		DTsebrii 22/JAN/2021 
 Description:	The source code for a cooking timer. During
 				its routine microcontroller waits a required 
 				amount of time and then provides a sizgnal 
