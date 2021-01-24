@@ -363,7 +363,7 @@ void main ()
 					cookTimer.sec = 0;
 					cookTimer.min++;
 				}
-				if ( cookTimer.sec >= time )
+				if ( cookTimer.min >= time )
 				{
 					BUZZER = TRUE; // Timer is completed
 				}
