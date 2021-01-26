@@ -1,4 +1,4 @@
-// &&& Cooking Timer &&&&&&&&&&&&&&&&&&&&&&&
+// &&&& Cooking Timer &&&&&&&&&&&&&&&&&&&&&&&
 /********************************************************
 File name:		Cooking_timer.c
 Author:			DTsebrii
