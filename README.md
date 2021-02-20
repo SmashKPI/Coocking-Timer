@@ -14,6 +14,6 @@ The LED signalise the time delay chosing process.
 * LED
 * Switch
 ## Updates
-02/20/2021 - Created a NXP LCP1768 Version of the 
-cooking timer. The BOM for it is less by one LED 
-and resistor
+02/20/2021 - Created an NXP LCP1768 Version of the 
+cooking timer. The BOM remains the same except
+one LED and an 1K Ohm resistor.
